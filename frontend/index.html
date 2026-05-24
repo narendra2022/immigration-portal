@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Immigration News Portal</title>
+  
+  <!-- Premium Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Background Glow Orbs -->
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-area">
+        <div class="logo-icon">
+          <i data-lucide="globe"></i>
+        </div>
+        <div>
+          <h1>US Immigration Portal</h1>
+          <p class="subtitle">Aggregated H-1B, Citizenship & Policy Updates</p>
+        </div>
+      </div>
+      
+      <div class="header-actions">
+        <div class="clock-widget">
+          <i data-lucide="clock"></i>
+          <span id="live-time">Loading...</span>
+        </div>
+        
+        <button id="refresh-btn" class="btn btn-primary" title="Scrape latest immigration feeds">
+          <i data-lucide="rotate-cw" id="refresh-icon"></i>
+          <span>Refresh News</span>
+        </button>
+        
+        <button id="theme-toggle" class="btn btn-icon" title="Toggle dark/light mode">
+          <i data-lucide="sun" id="theme-icon-light"></i>
+          <i data-lucide="moon" id="theme-icon-dark"></i>
+        </button>
+      </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+      <div class="stat-card">
+        <div class="stat-icon icon-blue"><i data-lucide="newspaper"></i></div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-total">0</span>
+          <span class="stat-label">Total Articles</span>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon icon-amber"><i data-lucide="file-check"></i></div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-official">0</span>
+          <span class="stat-label">Official Bulletins</span>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon icon-teal"><i data-lucide="refresh-cw"></i></div>
+        <div class="stat-info">
+          <span class="stat-value" id="stat-last-update">-</span>
+          <span class="stat-label">Last Updated</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Toolbar -->
+    <div class="toolbar">
+      <div class="search-wrapper">
+        <i data-lucide="search" class="search-icon"></i>
+        <input type="text" id="search-input" placeholder="Search articles, keywords, dates...">
+      </div>
+      
+      <div class="filter-pills" id="category-filters">
+        <button class="pill active" data-category="all">All News</button>
+        <button class="pill" data-category="H-1B Visa">H-1B Visa</button>
+        <button class="pill" data-category="US Citizenship">Citizenship</button>
+        <button class="pill" data-category="Visa Bulletin">Visa Bulletin</button>
+        <button class="pill" data-category="USCIS Announcements">USCIS Alerts</button>
+        <button class="pill" data-category="General Policy">General Policy</button>
+      </div>
+    </div>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <div class="loader-container" id="news-loader">
+        <div class="spinner"></div>
+        <p>Fetching latest updates...</p>
+      </div>
+
+      <div class="empty-state hidden" id="empty-state">
+        <i data-lucide="file-warning" class="empty-icon"></i>
+        <h3>No News Found</h3>
+        <p>Try altering your search filters or click "Refresh News" to pull fresh content.</p>
+      </div>
+
+      <div class="news-grid" id="news-grid">
+        <!-- Cards injected dynamically via JS -->
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>© 2026 U.S. Immigration News Portal. Sourced from USCIS, Federal Register, and Google News. 100% Free & Open-source.</p>
+    </footer>
+  </div>
+
+  <!-- Detail Modal -->
+  <div class="modal-overlay hidden" id="detail-modal">
+    <div class="modal-container">
+      <header class="modal-header">
+        <span class="badge" id="modal-badge">Category</span>
+        <button class="btn-close" id="modal-close-btn">&times;</button>
+      </header>
+      <div class="modal-body">
+        <h2 id="modal-title">Article Title</h2>
+        <div class="modal-meta">
+          <span class="meta-item"><i data-lucide="user"></i> <span id="modal-source">Source</span></span>
+          <span class="meta-item"><i data-lucide="calendar"></i> <span id="modal-date">Date</span></span>
+        </div>
+        
+        <div class="modal-section">
+          <h3><i data-lucide="sparkles"></i> AI Summary</h3>
+          <div class="summary-content" id="modal-summary">
+            <!-- Bullet points here -->
+          </div>
+        </div>
+        
+        <div class="modal-section">
+          <h3><i data-lucide="file-text"></i> Full Snippet</h3>
+          <p id="modal-desc">Full article description.</p>
+        </div>
+
+        <div class="modal-section hidden" id="modal-coverage-section">
+          <h3><i data-lucide="layers"></i> Alternative Coverage Sourced</h3>
+          <div class="coverage-links" id="modal-coverage-links">
+            <!-- Links injected here -->
+          </div>
+        </div>
+      </div>
+      <footer class="modal-footer">
+        <a href="#" target="_blank" id="modal-link-btn" class="btn btn-primary">
+          <span>Read Full Article on Source Site</span>
+          <i data-lucide="external-link"></i>
+        </a>
+      </footer>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
