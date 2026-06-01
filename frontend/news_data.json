@@ -1,13 +1,23 @@
 [
   {
+    "title": "H-1B Applications Fall 38 %",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyeU9jeUxBWVpXN2ZlOXY0REd0dlZaOWo2NjVOd2hCenVuVHpBamZFWEdpdG56dVNuYXVtSE9xYk9Ybl9Vd085S1p1ZmhFbS14c1JJY0NKaEhQMGRzcG1aUWRnYkJaNGZxbk9qVU1nUkU?oc=5",
+    "pub_date": "2026-05-31T18:04:45+00:00",
+    "description": "H-1B Applications Fall 38 % Austin South Asian",
+    "source": "Austin South Asian",
+    "source_type": "media",
+    "category": "H-1B Visa",
+    "summary": "H-1B Applications Fall 38 % Austin South Asian"
+  },
+  {
     "title": "Not All Immigrants Will Have to Leave the US to Seek Green Cards",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjk2SUV6eXdqNllhN1dJeGtzUFdxMUliaUd4dUtfak1NYU02emdELUhjTWo1RXVJYkdLaUFSTzhNNXo2ZjJXckp5bm5Sd0xVb0JJMC11MGEtWG5hS1dXcVFIc0M3UWhDMEE1Y3dVbm5NbnFidzFxMVdkTmt2S1BWbkxMSGxuVmdjRWpwVGJyZ3I2UQ?oc=5",
     "pub_date": "2026-05-30T16:39:44+00:00",
     "description": "Not All Immigrants Will Have to Leave the US to Seek Green Cards PGurus",
     "source": "PGurus",
     "source_type": "media",
-    "category": "General Policy",
-    "summary": "Not All Immigrants Will Have to Leave the US to Seek Green Cards PGurus"
+    "summary": "Not All Immigrants Will Have to Leave the US to Seek Green Cards PGurus",
+    "category": "General Policy"
   },
   {
     "title": "International students' path to US green card narrows under new rule",
@@ -40,16 +50,6 @@
     "category": "H-1B Visa"
   },
   {
-    "title": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0VnbkRPX05VTVhNX0EzOGRqRXlyTUYtQml0dC1sUGoyZUxMMFdLb2NOcEE4LWhIRlJrblFoQlBPaW9IS200SEd4T21YcmFWVHI0U3p0Q1ZyUDZoSkNIWFhzMExad3NpZkhzUTBJcTEzOFBCVlFFVmRjSThRY0Q4aHV0MFNxTEo4Rnp5bnlMNWduOUY4SVU0WGFiVWZ6TjZQXzhFU2ZySQ?oc=5",
-    "pub_date": "2026-05-29T09:18:19+00:00",
-    "description": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know Boundless Immigration",
-    "source": "Boundless Immigration",
-    "source_type": "media",
-    "summary": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know Boundless Immigration",
-    "category": "General Policy"
-  },
-  {
     "title": "This Week in Immigration: May 29, 2026",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5",
     "pub_date": "2026-05-29T07:00:00+00:00",
@@ -76,6 +76,12 @@
     "description": "MAGA’s civil war over immigration is over. Silicon Valley lost. Yahoo",
     "source": "Yahoo",
     "source_type": "media",
+    "related_coverage": [
+      {
+        "source": "vox.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnJHMnBIX0dnVEhTazBDTGZoeXZqbWVyUXpGaEtLLW1DaEtnYjVTZnU1VVZTakFmM0sxR0cwSXBsTnlEYk5aRkgtQnhRdXp0Mnp3bWhLWDZRaHI4SGE0UnJnMklid0pHMDFnWkVQRmVUVEQ4dWdRdmlzNlJTdlFMWV9JOF9lS21l?oc=5"
+      }
+    ],
     "summary": "Silicon Valley lost. Yahoo",
     "category": "General Policy"
   },
@@ -98,6 +104,26 @@
     "source_type": "media",
     "summary": "What the latest clarification by USCIS... Moneycontrol.com",
     "category": "H-1B Visa"
+  },
+  {
+    "title": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0VnbkRPX05VTVhNX0EzOGRqRXlyTUYtQml0dC1sUGoyZUxMMFdLb2NOcEE4LWhIRlJrblFoQlBPaW9IS200SEd4T21YcmFWVHI0U3p0Q1ZyUDZoSkNIWFhzMExad3NpZkhzUTBJcTEzOFBCVlFFVmRjSThRY0Q4aHV0MFNxTEo4Rnp5bnlMNWduOUY4SVU0WGFiVWZ6TjZQXzhFU2ZySQ?oc=5",
+    "pub_date": "2026-05-28T07:00:00+00:00",
+    "description": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know Boundless Immigration",
+    "source": "Boundless Immigration",
+    "source_type": "media",
+    "summary": "USCIS AOS Memo: What Employers and Foreign National Employees Need to Know Boundless Immigration",
+    "category": "General Policy"
+  },
+  {
+    "title": "USCIS Policy Update: New Adjustment of Status Guidance Impacting Employers and Individuals",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM19UZlVPMUJSRFpQZ0RfZWZLLVpNVTNLTHZCcTdESjV2ajA2WnBwci1RZGxIaWREV1FWQ0NadE1CcWhBX053ZGFXMGFmUURjZHN1X0EweXg3Z3RRTlJ5elpwZUhXZE91bGdPUjZJVFlQT1hlQm5nQ3o5SWpKYkFrZmVMUm1kVE5RdkFGOXIxRVBjb1h5a1RJZ2YxejlPNFcwRG9VQzA2X3lmUkJIM1NUNVpBZk01SVJmYzhoN1BTR0RJM29Na1J2RUE2OUVxSEFaNE1rekNQUVplQTBkRGMtRDZ1QjRxNzRnS0ctU19IZ285TXBtdDBvb09R?oc=5",
+    "pub_date": "2026-05-28T07:00:00+00:00",
+    "description": "USCIS Policy Update: New Adjustment of Status Guidance Impacting Employers and Individuals Hinshaw & Culbertson LLP",
+    "source": "Hinshaw & Culbertson LLP",
+    "source_type": "media",
+    "category": "General Policy",
+    "summary": "USCIS Policy Update: New Adjustment of Status Guidance Impacting Employers and Individuals Hinshaw & Culbertson LLP"
   },
   {
     "title": "US clarifies who can stay during H-1B green card application process",
@@ -528,16 +554,6 @@
     "summary": "USCIS clarifies pathway for H-1B visas MSN"
   },
   {
-    "title": "USCIS clarifies pathway for H-1B visas",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3A1NDVkb2IwOF9WeFRTeW1ISW1oZzVuRzhya016eDRkY3R5b01BcWZMd3ktS3hZWjB5QWp3bW5oUXRkZ1FPaFQ1WWtyS3hPcHoyTU0weEtOMkZxNC1pUHdJVU9NYlE2SEwwazdRX0pKS1ZJaEJqcUJDQldKWlZld2k0WVpjR0g0SUlGQTJLYTd1ZG1SNDVuQjZhLW5PNVJYbWxSUmRramFzNTNQ?oc=5",
-    "pub_date": "2026-05-24T16:15:00+00:00",
-    "description": "USCIS clarifies pathway for H-1B visas Newsweek",
-    "source": "Newsweek",
-    "source_type": "media",
-    "summary": "USCIS clarifies pathway for H-1B visas Newsweek",
-    "category": "H-1B Visa"
-  },
-  {
     "title": "Trump's green card crackdown could force 1M 'aliens' out of the US — but 75 countries have no working consulate",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkdoMl9mY2VJU3R1MUJhTVFGZ3pWQnRFTVBJVDl5dWpudVBfMldXYU5Ca25qcWxieGg5N045cXlYRnVkZE5ydks4bGdRd1RpcjFzQ1B1amlpeXl0WU4zTmpCdDhBNXRKdEhRNVl1R1hXWEl5amI2NmNnbEJ3OE9yNWZhT3FYdUU1Z3ZaTGd2eU92YWttN0VlX05hZG1oZ1k?oc=5",
     "pub_date": "2026-05-24T15:45:00+00:00",
@@ -565,6 +581,16 @@
     "source": "Hindustan Times",
     "source_type": "media",
     "summary": "'Not targeted at India': Marco Rubio clears the air on green card, H-1B, student visa policy changes | India News Hindustan Times",
+    "category": "H-1B Visa"
+  },
+  {
+    "title": "USCIS clarifies pathway for H-1B visas",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3A1NDVkb2IwOF9WeFRTeW1ISW1oZzVuRzhya016eDRkY3R5b01BcWZMd3ktS3hZWjB5QWp3bW5oUXRkZ1FPaFQ1WWtyS3hPcHoyTU0weEtOMkZxNC1pUHdJVU9NYlE2SEwwazdRX0pKS1ZJaEJqcUJDQldKWlZld2k0WVpjR0g0SUlGQTJLYTd1ZG1SNDVuQjZhLW5PNVJYbWxSUmRramFzNTNQ?oc=5",
+    "pub_date": "2026-05-24T07:00:00+00:00",
+    "description": "USCIS clarifies pathway for H-1B visas Newsweek",
+    "source": "Newsweek",
+    "source_type": "media",
+    "summary": "USCIS clarifies pathway for H-1B visas Newsweek",
     "category": "H-1B Visa"
   },
   {
@@ -698,16 +724,6 @@
     "category": "General Policy"
   },
   {
-    "title": "Trump's Green Card Changes Could Force Hundreds of Thousands to Leave U.S. Here's What To Know",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wZElab0xKRjhHQ0RPRkVVN0NnX1ZENFNyQjE2Q0VKcW5GQVVzdjF6Sml5NHBmQUxhdmkzSnM5RVhfQlJ4UjQ2M2FsZEsxd3pud1NTSnBRUnFqM3R4NmJtNDYzRUtUeFVuYzg0Ylloc2hPU2RGZmZWMjJyOA?oc=5",
-    "pub_date": "2026-05-23T18:19:15+00:00",
-    "description": "Trump's Green Card Changes Could Force Hundreds of Thousands to Leave U.S. Here's What To Know Time Magazine",
-    "source": "Time Magazine",
-    "source_type": "media",
-    "summary": "Trump's Green Card Changes Could Force Hundreds of Thousands to Leave U.S. Here's What To Know Time Magazine",
-    "category": "General Policy"
-  },
-  {
     "title": "From H-1B to 'maybe': Green card dream hits red light",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWtXUTlkZU9yc3puM2YyeVdaUDZkRnFhUGF1Qlc2eFk1VDE0R2FrMDRtZm44MG1SSm1qWnR6QnQ4V045dzVZTE9LblNrMEM1NnZSM0Q0NWk3S0FaSmh5M3VXTXZjYy1lMERMcUYzZ3d4T2pNOEdUMjlnaUZpWHlUekxJQXN5Y2c4dU5KRm5qRVZ4c19GSC11Y1FKYTZ6QzRlTjNuWHlMVVVYX3RRY0ZBREZlV3dDQ0ZSbFhkRNIBwgFBVV95cUxQSUtZUS1vcnd1VW1halVYb0x6MDVqdXJUTlpLekNUZ1kxdkhDeTkwTUhCNUtOcGJXb1VBWWRERzBXWTE1bUxaWXYwdGZ0d1ZaZWtXLXVRTzdPRWduT1dBOTRmcndqVXp5VmdzSElsbkItLTd4SERYdHRKbVJMWlJtUWRZWUJFYW9xRzhGMUpJdW9Qb0RrR29DTUpIcEZlZFJRUnFhMy1TLXZ2dVBFLVFfbndyaTFJTmc3MVJQVlN6VDA0Zw?oc=5",
     "pub_date": "2026-05-23T15:30:00+00:00",
@@ -806,15 +822,5 @@
     "source_type": "media",
     "summary": "USCIS Restricts In-Country Green Card Applications, EB-5 Implications Unclear IMI Daily",
     "category": "EB-5 Visa"
-  },
-  {
-    "title": "No country for Indians: Move out from US to apply for Green Card, says new rules",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanAzR2dHcXBkOFdyNXE1VDZXOU9QamhOcTUzRWVJSEtzV3V0cWpURzdyN1lLTFpwQ1NDc3JWaTByNUF1N0w0UTJwcElGZXBNSUFzSmdUV1MxTFBZaEl0RTZBMlZRS0lFN1JYTDJKamNsV1F1QnhNUjFpZkNZUEZjd3FmRXFjQkhKWlFsMGg3czhLUFNVQW9VcTFJRHh1U2EzR1dFNnUzM2xRVjVvS0pjS1NOa0FQcmJ1cmpFa0lacUc3TUc4b2Ew0gHMAUFVX3lxTE0zbVc5N2FsbktoRGxwN1dsa2FRQXFmWlN6REpCVm9zT0RNVnRkWk8zV2YwdWQ1WlV4WHFMU0J5T3d6Qzd1SWUyX19HdlF6ZmlXdk5RUzBUbUdSQXNXMzlySl82bGt4VkVvbE1DZ2UyN1VseFJraUZycnd0MVYya013N2x6OGgwb0p2VHI2SkhGNEhhSzdyVUQ2Q1BHbFgtTGxWcmhiRFRMTE80Q0NyRkRvNDhMX0NLMTNrTVhQblVTQ3ZWd0l2b3JtMksxZw?oc=5",
-    "pub_date": "2026-05-23T11:10:36+00:00",
-    "description": "No country for Indians: Move out from US to apply for Green Card, says new rules theweek.in",
-    "source": "theweek.in",
-    "source_type": "media",
-    "summary": "No country for Indians: Move out from US to apply for Green Card, says new rules theweek.in",
-    "category": "General Policy"
   }
 ]
