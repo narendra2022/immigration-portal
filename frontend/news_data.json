@@ -6,8 +6,8 @@
     "description": "The $100,000 H-1B fee: Impact on the health care sector, legal challenge and current status Medical Economics",
     "source": "Medical Economics",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "The $100,000 H-1B fee: Impact on the health care sector, legal challenge and current status Medical Economics"
+    "summary": "The $100,000 H-1B fee: Impact on the health care sector, legal challenge and current status Medical Economics",
+    "category": "H-1B Visa"
   },
   {
     "title": "US hits annual EB-5 visa cap for Indians, new issuances paused till Oct",
@@ -46,8 +46,8 @@
     "description": "The Strange Case of ‘Number 8’ on DOJ’s Latest Denaturalization List Center for Immigration Studies",
     "source": "Center for Immigration Studies",
     "source_type": "media",
-    "category": "US Citizenship",
-    "summary": "The Strange Case of ‘Number 8’ on DOJ’s Latest Denaturalization List Center for Immigration Studies"
+    "summary": "The Strange Case of ‘Number 8’ on DOJ’s Latest Denaturalization List Center for Immigration Studies",
+    "category": "US Citizenship"
   },
   {
     "title": "WR Immigration News Digest",
@@ -216,10 +216,14 @@
       {
         "source": "NDTV",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTJra0FlUW82XzVWbE5EYnROQV8yb2daT2JXdVBoSmF6WG1vNE1INGV3My14TkdMNkttemFweWVyMWMwU1FBOVlJUDExbzh5RERrVURLYWNpTXg4X2NLMzFuV1hFNVZvam9mZktQNC0yS2M3QVh5WHV0NE5RM3VXdE9VN0lxM2RoenRfOEVNMUZ2UVZvcnBFWUZleHJuV2ZicWFPS0w4ME9rVmNO0gG0AUFVX3lxTE40elV1bDF6bWxCT3ExU3BEbXQ2dW0zbzI3VXFSa2drXzdQaDF1bzRyUnRzQ3hLVlI0YzlzN010YUJoVXBzVzFnWXNpZkU0NlF6TGJTUUNvS244X2U5T01rWDFETXlNTWlRZFdzRGNWcWMwNmJfTW52dkRKWkxHR2RYbkJqdFROSlBMZnM4MEhoODlkMGlpMjUwSng0QUQ1UlFxdEppVFMtREZmNWR3SVdFUEYzMw?oc=5"
+      },
+      {
+        "source": "MSN",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUtwMTJlZWlHQUFsNkppSHo5YUJLYVE4TFpSaWVyZzJwSDhueU1lWF9SQ0tLdFloZzRENXM5N3gxX0dURlVSODVWWXZIUDhOQ1J5d3I0RTk4cEg4MjNJOFBmd3MyVF9YTGJfQUxreno3UHpYQlpVbkpZQ1BGbHVSSllSckhyV1VjRDJEWWJTRWQ5VkRVamRMZTJiMWpkd0ZfS2E2Qy0xZ2lrZVY3MExKbG85Zjg3T0VJQ1NIVjhoZzE5aFBKOVBQelB5cWx3NklUOThBMHlna1hrSUtkOUtfMDNadjZZOXV1VldWallxNXJxdXdrOHJzbFNPdzVrZndTaFRONVdfRC1NLTRsbkdqblhLaHlIckZfcF92NGNWWjB5TW5oNEhUUDJn?oc=5"
       }
     ],
-    "category": "H-1B Visa",
-    "summary": "Indian-American CEO faces US citizenship loss over H-1B fraud MSN"
+    "summary": "Indian-American CEO faces US citizenship loss over H-1B fraud MSN",
+    "category": "H-1B Visa"
   },
   {
     "title": "Indian-origin CEO in the US faces loss of citizenship over H-1B visa fraud",
@@ -256,6 +260,10 @@
       {
         "source": "Higher Ed Dive",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUpVck5NOXd5dWF1MGt5RnUxcEFxUnFHM0tTc1UyOGRGY3BvU2FkTDRxOWttRHdNZUZKbU1DWTNKQ0dQZkYwYk5neTc5QTB2WWxzMUVrZWRpblhnRmFwMXZtdUlWaWdSd0pPUUIzZUlHb3NIc1IxTTNyN1d6TjRQNnBzcFlHZw?oc=5"
+      },
+      {
+        "source": "Monterey Herald",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91YjM3ZldJNkN0VUE5LWRBYXlzdEk5TXRGSHhubUt4T0E0U0dlOUxoMzEyRGU3YkNaTTBkQkNuYnQwSm9qWll6TEJSZ2pVbkJVNzF1SmNCc0RZVFFCOGhoQlNQdWJfNHBLUU4zUGtjOWk?oc=5"
       }
     ],
     "summary": "What to know about Trump’s $100K fee on H-1B visas and the court decision that struck it down Daily Kos",
@@ -452,8 +460,18 @@
     "description": "United States | Federal court rules H-1B Proclamation implementation unlawful, vacates $100,000 H-1B visa fee; government to appeal BAL Immigration Law",
     "source": "BAL Immigration Law",
     "source_type": "media",
+    "summary": "United States | Federal court rules H-1B Proclamation implementation unlawful, vacates $100,000 H-1B visa fee; government to appeal BAL Immigration Law",
+    "category": "H-1B Visa"
+  },
+  {
+    "title": "A View from the Frontlines: Why the Court’s Rejection of the $100,000 H-1B Fee Safeguards Corporate Fraud, Not the Rule of Law",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSm1GZGo0NkNVcU5FZ2JqMXUwRHpmZmpWVFRXdUNSZzBCODdQZDc3U050anc5Y05Lbm9UdEV0X0VQc1VnekpFbG1uaDladm1IRUZPQkpiZGIzd3R5NXVmdTI1RHlLaHBQZEpHdjhlNnF1cExKLVBLQVFTQUhnTnk5Tmx1dmRJamFhc0t6cmZtT2NaQ3BHcDQ1UVpJbWdBMUxKZ3hNUWdqc3hxb3NLVHk3RnBR?oc=5",
+    "pub_date": "2026-06-09T15:58:36+00:00",
+    "description": "A View from the Frontlines: Why the Court’s Rejection of the $100,000 H-1B Fee Safeguards Corporate Fraud, Not the Rule of Law Center for Immigration Studies",
+    "source": "Center for Immigration Studies",
+    "source_type": "media",
     "category": "H-1B Visa",
-    "summary": "United States | Federal court rules H-1B Proclamation implementation unlawful, vacates $100,000 H-1B visa fee; government to appeal BAL Immigration Law"
+    "summary": "A View from the Frontlines: Why the Court’s Rejection of the $100,000 H-1B Fee Safeguards Corporate Fraud, Not the Rule of Law Center for Immigration Studies"
   },
   {
     "title": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down",
@@ -578,14 +596,14 @@
     "description": "US Court Strikes Down Trump’s $100,000 H-1B Visa Fee Outbound Investment Group",
     "source": "Outbound Investment Group",
     "source_type": "media",
-    "summary": "US Court Strikes Down Trump’s $100,000 H-1B Visa Fee Outbound Investment Group",
-    "category": "H-1B Visa",
     "related_coverage": [
       {
         "source": "South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkpaRDgtVTE3aVNnSUZUR3ZpcmN0V1VSTWp2QTFwVjNMTkVxMmV2VnlVazNxai1ySXFFWGNKaVJXZk9SLUdNWXpNYUxlWUJFS3VYbVVPTWdZVnhXS0lETHh5LTNMaFFjMGZXeXJkbTNtd1p4XzBqYTEzRmZ2N2h1RTRqSTN2VHBVUl82d0MxQ2xCRU1Sam13RTZuUFJaQlgzY01UY2lQc0xWb2RaXzg3VllrZFc5dmdTTnZxM0hxMW_SAcABQVVfeXFMTjN6QzFCTXU5bUtESHNzaVFXRkNid19zem96OXVEcHBTVVBYVEZXY2FjbmE2Q3hSOXJHMkt1d2VUMWN2Ql9CVVVUTGtObUQwZEhxbXl0SGJ5cS1hNDdqcVZIOG5STnNtbkUzbmwydWtPLWoxeXRKdzdJakdrSnV1MDM4S1Rzc0h4TGRRR2NHVzBZdEZzTW92cHZudE82ek82aHJZNFA3OWM1cnJESS05Qmt1YUZzS3dnSXZsQWVQdHIt?oc=5"
       }
-    ]
+    ],
+    "summary": "US Court Strikes Down Trump’s $100,000 H-1B Visa Fee Outbound Investment Group",
+    "category": "H-1B Visa"
   },
   {
     "title": "Court strikes down $100,000 work visa fee in blow to Trump immigration policy",
@@ -784,14 +802,14 @@
     "category": "H-1B Visa"
   },
   {
-    "title": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas",
+    "title": "Judge Throws Out Policy Imposing $100,000 Fees for Skilled Worker Visas",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHJxMEtwTE5YWjN5bjNtZ2VKVlE2YWY2ZDlaRjR4ZUI4SEg0LTVwUVJjRllUNHlQNGEyS0MwckpjQWg1ejBvM1dxVm9BSVh6SFhFZXQxV0I3YzlPSW1LLUhyb2xjNnJXYjJEd1FVdG54MFhjekV2WXBXNlFlb0tnZmhZVnZJanpXbDBEaV8wMm9KQQ?oc=5",
     "pub_date": "2026-06-08T18:40:34+00:00",
-    "description": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas The New York Times",
+    "description": "Judge Throws Out Policy Imposing $100,000 Fees for Skilled Worker Visas The New York Times",
     "source": "The New York Times",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas The New York Times"
+    "summary": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas The New York Times",
+    "category": "H-1B Visa"
   },
   {
     "title": "Trump Administration Seeks to Revoke U.S. Citizenship of 17 Immigrants",
@@ -952,15 +970,5 @@
     "source_type": "media",
     "summary": "Opinion | Panic In Silicon Valley: Why 15,000 Indians Fled US Last Year - With More On Their Way NDTV",
     "category": "General Policy"
-  },
-  {
-    "title": "Republican launches longshot bid to end H-1B visa green card pathway",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnVUWWNfWkhlNEx4UHFIamcyXzFwRF9LcTNlYU9vZGVVU0ctb1hRTEdnS2xzMW56d0FPempjLUZVbWt1aDRGUGVrX1N2N2ZFS3pzWXpWYjQ1cEVscms4a29oNmM0MUM2SGhGSVFmZGpOM1Iyb21wUVU3a0tHQlhWZlN2MldHLTRvNHBNS0lWYi1rbFlCZ2x4cjR2ZGFLSTByVDdfT21R?oc=5",
-    "pub_date": "2026-06-05T09:56:00+00:00",
-    "description": "Republican launches longshot bid to end H-1B visa green card pathway Newsweek",
-    "source": "Newsweek",
-    "source_type": "media",
-    "summary": "Republican launches longshot bid to end H-1B visa green card pathway Newsweek",
-    "category": "H-1B Visa"
   }
 ]
