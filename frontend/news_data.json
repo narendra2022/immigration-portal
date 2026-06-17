@@ -1,13 +1,33 @@
 [
   {
+    "title": "H-1B visas help fuel Washington's international migration, experts say",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQREtPaVRNZlFoeEs5MFg2dDhaTzNhdENGX2E4VGJkbEItaktlTnpnTnFfOXYxaVBHdVQteTRrOWpGZHBrTFBvQlhFNEdfTjV0U3h6cjdLOVJUOVAtVklZS1E0RWcyWnZUTm9hOXljYWlTY3RPaXUxdnNmcmlhbl8wX1RJUTM5QzV3SjNybmttSkxrNVcxZnBqZUpiODlkeDZBczdJR3h2S0NUUXpmVlNPTjZib3dyU3dyUTFBQlo5aHZIQTNzM2hXTUR6OWtJTHdQeEY0bURGNHFiWjNRVGxFRjJ3?oc=5",
+    "pub_date": "2026-06-16T17:58:00+00:00",
+    "description": "H-1B visas help fuel Washington's international migration, experts say KING5.com",
+    "source": "KING5.com",
+    "source_type": "media",
+    "category": "H-1B Visa",
+    "summary": "H-1B visas help fuel Washington's international migration, experts say KING5.com"
+  },
+  {
+    "title": "Trump Administration Appeals Ruling Striking Down $100,000 H-1B Fee Requirement",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUNMYlZrU3J1aS1XWUU0bkFMVnBudHBla0N2blQ0NUVzX2hnQlhIZ2VxT3dzeUNNekJvWENaWnlhMGNlUUhsVm1YdjVxLTJyRnd1eGpmOUdJODlyTU9IMmhrYXhCTDlGaG40d3g4RU9NTlNESXAxQ2w1MHl5ZnJFQ2p6ekJKSVpfX1A0MGh6UVJ2cFdzUTg4MmdLdF91MU5FMW00eWNTaEM3cFhNanFmcDBIZjNSOHFQcUdxSTI2OGtucG5XdFQ0QQ?oc=5",
+    "pub_date": "2026-06-15T22:30:41+00:00",
+    "description": "Trump Administration Appeals Ruling Striking Down $100,000 H-1B Fee Requirement Ogletree",
+    "source": "Ogletree",
+    "source_type": "media",
+    "category": "H-1B Visa",
+    "summary": "Trump Administration Appeals Ruling Striking Down $100,000 H-1B Fee Requirement Ogletree"
+  },
+  {
     "title": "United States | Federal court temporarily pauses ruling against $100,000 H-1B visa fee",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeU1BRnJIWExuT1VhaUVjWlgxSTdtcXo5Y2k2OVg5eHFnQmI5ZHBmQXNrQV9GOFVGZGFnMXc0V3daYXJxVGFGa2U0RXhkYmY1TzhUMkhzVkZhQ20yemM2TDgzWGV4cDQxbkJXZlhQRVo5Y1J6OVppWjhFWmJwdmpLaGswMzc0YkxPSmVxRnNGYjdadDUtRDB4X21IUEluQWNabGN5cmExYzkyZnNZclJEVmFDbUlNZnMxbDdISQ?oc=5",
     "pub_date": "2026-06-15T21:10:34+00:00",
     "description": "United States | Federal court temporarily pauses ruling against $100,000 H-1B visa fee BAL Immigration Law",
     "source": "BAL Immigration Law",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "United States | Federal court temporarily pauses ruling against $100,000 H-1B visa fee BAL Immigration Law"
+    "summary": "United States | Federal court temporarily pauses ruling against $100,000 H-1B visa fee BAL Immigration Law",
+    "category": "H-1B Visa"
   },
   {
     "title": "Indian H-1B worker sues Texas employer, alleging $100K payment to keep his job",
@@ -16,8 +36,8 @@
     "description": "Indian H-1B worker sues Texas employer, alleging $100K payment to keep his job The American Bazaar",
     "source": "The American Bazaar",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "Indian H-1B worker sues Texas employer, alleging $100K payment to keep his job The American Bazaar"
+    "summary": "Indian H-1B worker sues Texas employer, alleging $100K payment to keep his job The American Bazaar",
+    "category": "H-1B Visa"
   },
   {
     "title": "The Strange Case of ‘Number 8’ on DOJ’s Latest Denaturalization List",
@@ -56,8 +76,8 @@
     "description": "United States: District Court Temporarily Stays Order Vacating $100,000 H-1B Fee Fragomen",
     "source": "Fragomen",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "United States: District Court Temporarily Stays Order Vacating $100,000 H-1B Fee Fragomen"
+    "summary": "United States: District Court Temporarily Stays Order Vacating $100,000 H-1B Fee Fragomen",
+    "category": "H-1B Visa"
   },
   {
     "title": "Trump's Justice Department is appealing the ruling that killed its $100,000 H-1B visa fee",
@@ -166,6 +186,8 @@
     "description": "Federal Judge Vacates $100,000 H-1B Visa Fee Arias Villa Law",
     "source": "Arias Villa Law",
     "source_type": "media",
+    "summary": "Federal Judge Vacates $100,000 H-1B Visa Fee Arias Villa Law",
+    "category": "H-1B Visa",
     "related_coverage": [
       {
         "source": "Immigration Blog",
@@ -175,9 +197,7 @@
         "source": "Dallas Express",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWpSeGFPT3h3TGZKWmR0eUcxbzBoS0hBQzR0cGltMGY1MWU3V3pnVnFFYzVSaFdJcWNnSTZTaWk0dldFYUxPNmNjRHRmM0JOUUxRd2dGVGZSM2ZzaGNmblg0eXlsTG9Bc1R6cjYxYU9rZ2c3WGMwQnhLSDV6a0FHTERqZ1pzSlQ2WS1VckMzSmFuUzlJ?oc=5"
       }
-    ],
-    "summary": "Federal Judge Vacates $100,000 H-1B Visa Fee Arias Villa Law",
-    "category": "H-1B Visa"
+    ]
   },
   {
     "title": "USCIS green card policy shift raises immigration concerns",
@@ -236,6 +256,10 @@
       {
         "source": "MSN",
         "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObUtwMTJlZWlHQUFsNkppSHo5YUJLYVE4TFpSaWVyZzJwSDhueU1lWF9SQ0tLdFloZzRENXM5N3gxX0dURlVSODVWWXZIUDhOQ1J5d3I0RTk4cEg4MjNJOFBmd3MyVF9YTGJfQUxreno3UHpYQlpVbkpZQ1BGbHVSSllSckhyV1VjRDJEWWJTRWQ5VkRVamRMZTJiMWpkd0ZfS2E2Qy0xZ2lrZVY3MExKbG85Zjg3T0VJQ1NIVjhoZzE5aFBKOVBQelB5cWx3NklUOThBMHlna1hrSUtkOUtfMDNadjZZOXV1VldWallxNXJxdXdrOHJzbFNPdzVrZndTaFRONVdfRC1NLTRsbkdqblhLaHlIckZfcF92NGNWWjB5TW5oNEhUUDJn?oc=5"
+      },
+      {
+        "source": "Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOEttWGxGTE9ETlg5OEtnQW5OTnpZNUhGeUdfX0tKMjJoX0NJZzdYTjlvNkl4aklvSUlwb3hhYm5lRWpzeC0wM25vbWd1elNpMFdTSWt2Zm9DQ1NYVENid3gzTlp0MzdNSHo5WnVrQXpjMHdvWW1tNXl2R0s5TVBsVGI2cWNHSnBfQ25TQzlXbUswRzBfTmRYSEdndnFZQXQ3X3lhWnUyQ0hmSmtCczZLcWlSUVJ1YlNHRnVwRl9EMWxGeUc4VWfSAcsBQVVfeXFMT3dFR0ZUVnRkYW16Ujk3dDlSQXlKLWYwSGd6LWtwVVVvM3A1NlFtUXB6NHRBS2thbFk2QmZBUjFCZ1NlVkt3UFhCYVhQQ1hieDFJOTRDNUtXa2U3clAtam1GNUZpeUVoM3hXakdPeW00SFhuMDZZNUJXN1laeVNZSV8xQUlBZGt6d3VUcVVQSGRHUVAxMmJzN0JGbi0tcUthcERNQ0ZWb1p3ZmcyMU5QRDBPYm03U08zc1ROUEZpaW50cE5hZlhMbnp4MjA?oc=5"
       }
     ],
     "summary": "Indian-origin CEO faces US citizenship loss over H-1B visa fraud MSN",
@@ -456,16 +480,6 @@
     "category": "H-1B Visa"
   },
   {
-    "title": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnRmbmRSb2dUazBRV2tmTmtVdnR3YlpiZV94VnI0em9vMFlHdGZTMUQyTWpCQ3dzWjdfYi1NOHlYZHRueFVCSkxUX3FfMUdwVFlyTWVDR1lHZXRfS01ieUY5R3ZENGdGaHNKQW9oZ2RKUk0xZnllb1AzR2FlQzhxS1lZQldERXoyODRaMmFSbk9YeUxDTkpYVHJWZFkydmxMZ3RWR1VrRWxjd1RydGpIc1gtdEdGZw?oc=5",
-    "pub_date": "2026-06-09T21:27:57+00:00",
-    "description": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals KQED",
-    "source": "KQED",
-    "source_type": "media",
-    "summary": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals KQED",
-    "category": "H-1B Visa"
-  },
-  {
     "title": "The Trump Administration moves forward with revoking the citizenship of 17 naturalized immigrants",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaEN4TzRxMVZlNUxQR2NvQl9GLXBwUjRMX0NvekFnWmFuaU1WUmhPcjVERWpNc2NWTmlObnNpajRKd2VJdGNJTUZzR1VYTGZXbjA4M290OWFtOTNOZ2pVb0ZCWnJyRFBnUUViREpST1NQNTFpMkVMcmhjQlVQQkV1NDJhUFFZcE9yTnNuRkxOdkcxd3VuVklmZkxzeXFpVlByekcwNEtOUlNtcEROeEl2MUxLXzJHZ0FHV1V3bW1VMktVY282aURMU0k0emVZT2FERGxtREpJZXZqbzJT0gHwAUFVX3lxTE5PR0M5RjJIQjRNa01VZElJUlBfajRYRWhOMDQ0MnZ4NVRpWDE3Ym1iNHlucy1QTWRfa21FdU9RTXVfeXdzYUhxRzIxLUJsZ09RV3BEako5MFVQMk9ldXVUR0xyaWJFdDRlX21BMEFHZzJicnNkb1ZicmNrWkRZbWtzYjdvbzhjLWJvTm1PUERBbzNXOVhJOW41MllrWDBuenBJbUJkRTlNX2ZtSVNvakZlNlNGdmEtTmFxMEp2VXpGZERETVBMa1owa1pIOTd1d2ZSV3lzZkZNS1lDLXhtSTNkZ3MwUUYzT3JGZ1UyV1VLRA?oc=5",
     "pub_date": "2026-06-09T18:34:18+00:00",
@@ -538,8 +552,8 @@
     "description": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down San Bernardino Sun",
     "source": "San Bernardino Sun",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down San Bernardino Sun"
+    "summary": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down San Bernardino Sun",
+    "category": "H-1B Visa"
   },
   {
     "title": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down",
@@ -728,6 +742,26 @@
     "summary": "Setback for Trump as US judge strikes down $100,000 fee: How it impacts H-1B visa aspirants The Times of India"
   },
   {
+    "title": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnRmbmRSb2dUazBRV2tmTmtVdnR3YlpiZV94VnI0em9vMFlHdGZTMUQyTWpCQ3dzWjdfYi1NOHlYZHRueFVCSkxUX3FfMUdwVFlyTWVDR1lHZXRfS01ieUY5R3ZENGdGaHNKQW9oZ2RKUk0xZnllb1AzR2FlQzhxS1lZQldERXoyODRaMmFSbk9YeUxDTkpYVHJWZFkydmxMZ3RWR1VrRWxjd1RydGpIc1gtdEdGZw?oc=5",
+    "pub_date": "2026-06-09T07:00:00+00:00",
+    "description": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals KQED",
+    "source": "KQED",
+    "source_type": "media",
+    "summary": "California Helped Strike Down the $100,000 H-1B Fee. Now, the Fight Moves to Appeals KQED",
+    "category": "H-1B Visa"
+  },
+  {
+    "title": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVlaYmx3aS1GVGxtWWhRRjREREo3M0pBNmxBVWc0Xy1hUDNoV0lEVXBpOFBId1ZEOElIS2dXU1lYOGJaMmVJSkxMSXRQQUI1V25YR3J3TFpSa0JxRGtKVEU4SWZ6SzJVbUxGcmJ6dEppRWkyVkItSFhhNm13SXdsUGJYRGJycFNQWVJGZlA2WjlNcTNvcGdVMlFRNU1naEFsaXBSRlRB?oc=5",
+    "pub_date": "2026-06-09T07:00:00+00:00",
+    "description": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee Australian Broadcasting Corporation",
+    "source": "Australian Broadcasting Corporation",
+    "source_type": "media",
+    "summary": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee Australian Broadcasting Corporation",
+    "category": "H-1B Visa"
+  },
+  {
     "title": "US Court Strikes Down Trump's $100,000 H-1B Levy, Says It Was A Tax, Not Visa Fee",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZk9VMG84UzBNUGF1eTR2QXFwTEZoM2dKU2ltc1JET25iQkd2VW9xUjJrMTJRd2FhSS1KcWZtWmt4Sm14Y1Ixb3pTLWJnOFA0WWZ5cHFJS19iemI0dGRSSDYyQm1rbkI4elpmYXR5RXJqM2dfUW1LZVJPbVYzTlZXWXJYR2dyYTVTN0h6eGlDYm94YTduTG1SekVtNGxXd1JBZjNtQUtTRjBLd9IBrwFBVV95cUxOQXBBR3JZODJXcUhJcEthbzlDTUtIZ1hVMFoxbW5BaEt5b0p6dVp5Mld5aEVvSHFoOV9xWVMzNXNXMDJSSi1DVXBXd2p3T2l4WWdmcmpHVEpuUGtxVUpaM25tazIteDVHR0RkYjFhWnVBRGJ3a3BXYm93dFFJemx0N0JUT09nTG9qWWxEOTdMMWhzdnk5OG4yYzAtUUF3RmFmZGZpanhMTDRDQVo1d1RB?oc=5",
     "pub_date": "2026-06-09T06:39:07+00:00",
@@ -754,16 +788,6 @@
     "summary": "US judge blocks $100,000 H-1B visa fee: What does it mean for Indians? Firstpost"
   },
   {
-    "title": "Trump’s $100K fee for H-1B visas struck down",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUpVck5NOXd5dWF1MGt5RnUxcEFxUnFHM0tTc1UyOGRGY3BvU2FkTDRxOWttRHdNZUZKbU1DWTNKQ0dQZkYwYk5neTc5QTB2WWxzMUVrZWRpblhnRmFwMXZtdUlWaWdSd0pPUUIzZUlHb3NIc1IxTTNyN1d6TjRQNnBzcFlHZw?oc=5",
-    "pub_date": "2026-06-09T01:48:21+00:00",
-    "description": "Trump’s $100K fee for H-1B visas struck down Higher Ed Dive",
-    "source": "Higher Ed Dive",
-    "source_type": "media",
-    "summary": "Trump’s $100K fee for H-1B visas struck down Higher Ed Dive",
-    "category": "H-1B Visa"
-  },
-  {
     "title": "Trump's $100,000 H-1B visa fee is unlawful, US judge rules",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVBoemRaNEE1ZGlfVTRPeHZTMUpURHpITzJmVmZ4azg4cXB4M2pfOTBCM1lfd2lMcVNmOURTMThMV3c1VHRKSFp0MlROX1VTOS1KNGhBT1FmZF91ZXhPaGlyV002bzI5ZkpwOGZQRlhhWUo2RDJLeERBcDh4cmtudmFrNFY1ak9SaU1oT0F1ZVV3d05wMENQQndZMXE?oc=5",
     "pub_date": "2026-06-09T00:42:43+00:00",
@@ -772,16 +796,6 @@
     "source_type": "media",
     "category": "H-1B Visa",
     "summary": "Trump's $100,000 H-1B visa fee is unlawful, US judge rules Reuters"
-  },
-  {
-    "title": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVlaYmx3aS1GVGxtWWhRRjREREo3M0pBNmxBVWc0Xy1hUDNoV0lEVXBpOFBId1ZEOElIS2dXU1lYOGJaMmVJSkxMSXRQQUI1V25YR3J3TFpSa0JxRGtKVEU4SWZ6SzJVbUxGcmJ6dEppRWkyVkItSFhhNm13SXdsUGJYRGJycFNQWVJGZlA2WjlNcTNvcGdVMlFRNU1naEFsaXBSRlRB?oc=5",
-    "pub_date": "2026-06-09T00:09:32+00:00",
-    "description": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee Australian Broadcasting Corporation",
-    "source": "Australian Broadcasting Corporation",
-    "source_type": "media",
-    "summary": "Judge blocks Trump's $142,000 H-1B skilled worker visa fee Australian Broadcasting Corporation",
-    "category": "H-1B Visa"
   },
   {
     "title": "Trump's $100,000 fee on new H-1B visas struck down by judge",
@@ -860,16 +874,6 @@
     "summary": "Federal judge strikes down Trump’s $100K H-1B visa fee, ruling it an unconstitutional tax Fox News"
   },
   {
-    "title": "Judge voids Trump's $100,000 fee for new H-1B visas",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V0ZBdHY5VkZ2ZWdjRU1jOEhrWElCRGNkSEhrLVA2eTFmZDlEV1JWaXRzLWN0a1h5R09qZ0tLdEZTQXBjenlueEI5YVJfN3Rvd1ZiWkNGYkRyYUp1VTlyQWc1bmFnYjJsMG03SzdjcEdKd1poS2FiSmNNNkY?oc=5",
-    "pub_date": "2026-06-08T19:35:00+00:00",
-    "description": "Judge voids Trump's $100,000 fee for new H-1B visas CBS News",
-    "source": "CBS News",
-    "source_type": "media",
-    "summary": "Judge voids Trump's $100,000 fee for new H-1B visas CBS News",
-    "category": "H-1B Visa"
-  },
-  {
     "title": "Judge Throws Out Policy Imposing $100,000 Fees for Skilled Worker Visas",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHJxMEtwTE5YWjN5bjNtZ2VKVlE2YWY2ZDlaRjR4ZUI4SEg0LTVwUVJjRllUNHlQNGEyS0MwckpjQWg1ejBvM1dxVm9BSVh6SFhFZXQxV0I3YzlPSW1LLUhyb2xjNnJXYjJEd1FVdG54MFhjekV2WXBXNlFlb0tnZmhZVnZJanpXbDBEaV8wMm9KQQ?oc=5",
     "pub_date": "2026-06-08T18:40:34+00:00",
@@ -940,6 +944,26 @@
     "category": "General Policy"
   },
   {
+    "title": "Trump’s $100K fee for H-1B visas struck down",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUpVck5NOXd5dWF1MGt5RnUxcEFxUnFHM0tTc1UyOGRGY3BvU2FkTDRxOWttRHdNZUZKbU1DWTNKQ0dQZkYwYk5neTc5QTB2WWxzMUVrZWRpblhnRmFwMXZtdUlWaWdSd0pPUUIzZUlHb3NIc1IxTTNyN1d6TjRQNnBzcFlHZw?oc=5",
+    "pub_date": "2026-06-08T07:00:00+00:00",
+    "description": "Trump’s $100K fee for H-1B visas struck down Higher Ed Dive",
+    "source": "Higher Ed Dive",
+    "source_type": "media",
+    "summary": "Trump’s $100K fee for H-1B visas struck down Higher Ed Dive",
+    "category": "H-1B Visa"
+  },
+  {
+    "title": "Judge voids Trump's $100,000 fee for new H-1B visas",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05V0ZBdHY5VkZ2ZWdjRU1jOEhrWElCRGNkSEhrLVA2eTFmZDlEV1JWaXRzLWN0a1h5R09qZ0tLdEZTQXBjenlueEI5YVJfN3Rvd1ZiWkNGYkRyYUp1VTlyQWc1bmFnYjJsMG03SzdjcEdKd1poS2FiSmNNNkY?oc=5",
+    "pub_date": "2026-06-08T07:00:00+00:00",
+    "description": "Judge voids Trump's $100,000 fee for new H-1B visas CBS News",
+    "source": "CBS News",
+    "source_type": "media",
+    "summary": "Judge voids Trump's $100,000 fee for new H-1B visas CBS News",
+    "category": "H-1B Visa"
+  },
+  {
     "title": "US judge strikes down Trump’s $100,000 H1-B visa fee",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmxKZS1YU2l2RUxSMVV6N2xqYVN5ZGVxbV9YamVaWjNNNjV3N3Vqd1gwWVdVYmZBbWxxa1pyVG1QLWxqeFVCeDBvcmlaYUN1ZVVlNk0wckQ0SG5BbWhqcDlmZldjVXdSN05MaElIZzBZNjR5eWExM0psb2xXRWZjVGllTjRKQ0RFdGFqQnEtWFptMjBJdzBj0gGcAUFVX3lxTE9ITGJWVVVVb1N0Tmg5d0pOQmNrdFpQcXlXWi0yQ1dyOHgxNFZQSUx4Z3d6c0ZYYWEwSzk0eG9GQ3FrU2czbXYtOUtfcnJzVmg2dTRNWGdFOW9GeVMzeFVjUW44WGlQSlg5bzFSbWFCc3AxMFJFYm5jbUlfeEpDeWhaVFBRY0JHNmxtSnAzWGt4R3JodDRwaXpOX190ZQ?oc=5",
     "pub_date": "2026-06-08T07:00:00+00:00",
@@ -958,25 +982,5 @@
     "source_type": "media",
     "summary": "Obama-appointed judge who blocked Trump birthright citizenship order strikes again, throws out visa overhaul Fox News",
     "category": "US Citizenship"
-  },
-  {
-    "title": "Judge strikes down Trump’s $100,000 H-1B visa fee, says it’s an unlawful tax",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclFsM3VMVlNvRDdSUjVMc0E0V2hFdzUyVDY0WnlZaUNnbnhheW5MOXBUZWxJa1B5amlvaVVDVUlKSnNhZUpsVTI1ZUVWSDNYUWgyRjlsYXRmM20waTR3QU5jbGZjbDBycGpUV2l2UGtmb0hKZFJmcnZOd1oxMnhPY0UxOFFvN2VKQUliU1hfeHowZUN3b3d4RTUtcnctdW5CNWc4d2NiMk5lLXhp?oc=5",
-    "pub_date": "2026-06-08T07:00:00+00:00",
-    "description": "Judge strikes down Trump’s $100,000 H-1B visa fee, says it’s an unlawful tax NBC News",
-    "source": "NBC News",
-    "source_type": "media",
-    "summary": "Judge strikes down Trump’s $100,000 H-1B visa fee, says it’s an unlawful tax NBC News",
-    "category": "H-1B Visa"
-  },
-  {
-    "title": "100,000 fake degrees raise H-1B visa concerns",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlZrckFpbHVPSkF3a1U0ZTdjVjdIcHNQai1RczFSMmsyWWRsVTRNbWx6eklRMF9XaFFiMjBlc2wxbXgzaThGalNja3ZhSVpBaTlrbXhmLW9Eb2puUzVZZmRSVjNfOGtDcm5xN0NWVC1KdjlYeEN4OVpod3kyd0hoWlEtcVhwbnU4Z29BRUlJU2dBcEdnRmRNamlJNXI?oc=5",
-    "pub_date": "2026-06-07T21:22:47+00:00",
-    "description": "100,000 fake degrees raise H-1B visa concerns The American Bazaar",
-    "source": "The American Bazaar",
-    "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "100,000 fake degrees raise H-1B visa concerns The American Bazaar"
   }
 ]
