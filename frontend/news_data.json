@@ -6,8 +6,8 @@
     "description": "USCIS Confirms No Second Lottery for H-1B Visa FY 2027 India News Network",
     "source": "India News Network",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "USCIS Confirms No Second Lottery for H-1B Visa FY 2027 India News Network"
+    "summary": "USCIS Confirms No Second Lottery for H-1B Visa FY 2027 India News Network",
+    "category": "H-1B Visa"
   },
   {
     "title": "USCIS sends alert for Fiscal Year 2027 H-1B visas, includes 'master's cap'; says: We have reached ...",
@@ -16,8 +16,8 @@
     "description": "USCIS sends alert for Fiscal Year 2027 H-1B visas, includes 'master's cap'; says: We have reached ... The Times of India",
     "source": "The Times of India",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "USCIS sends alert for Fiscal Year 2027 H-1B visas, includes 'master's cap'; says: We have reached ... The Times of India"
+    "summary": "USCIS sends alert for Fiscal Year 2027 H-1B visas, includes 'master's cap'; says: We have reached ... The Times of India",
+    "category": "H-1B Visa"
   },
   {
     "title": "H-1B FY2027: USCIS fills 85,000 visa cap, ends chances of second lottery",
@@ -26,8 +26,8 @@
     "description": "H-1B FY2027: USCIS fills 85,000 visa cap, ends chances of second lottery The American Bazaar",
     "source": "The American Bazaar",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "H-1B FY2027: USCIS fills 85,000 visa cap, ends chances of second lottery The American Bazaar"
+    "summary": "H-1B FY2027: USCIS fills 85,000 visa cap, ends chances of second lottery The American Bazaar",
+    "category": "H-1B Visa"
   },
   {
     "title": "H-1B visa update: Will there be second lottery? All we know as USCIS achieves visa cap for FY2027 | Hindustan Times",
@@ -36,8 +36,8 @@
     "description": "H-1B visa update: Will there be second lottery? All we know as USCIS achieves visa cap for FY2027 | Hindustan Times Hindustan Times",
     "source": "Hindustan Times",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "H-1B visa update: Will there be second lottery? All we know as USCIS achieves visa cap for FY2027 | Hindustan Times Hindustan Times"
+    "summary": "H-1B visa update: Will there be second lottery? All we know as USCIS achieves visa cap for FY2027 | Hindustan Times Hindustan Times",
+    "category": "H-1B Visa"
   },
   {
     "title": "US reaches H-1B visa cap for FY2027, no second lottery to be held",
@@ -132,8 +132,8 @@
     "description": "US Businesses Hit H-1B Visa Cap After Trump Lottery Overhaul Bloomberg Law News",
     "source": "Bloomberg Law News",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "US Businesses Hit H-1B Visa Cap After Trump Lottery Overhaul Bloomberg Law News"
+    "summary": "US Businesses Hit H-1B Visa Cap After Trump Lottery Overhaul Bloomberg Law News",
+    "category": "H-1B Visa"
   },
   {
     "title": "‘Reduced to coin flip’: Amazon engineer pursues O-1 visa after H-1B lottery loss",
@@ -154,6 +154,16 @@
     "source_type": "media",
     "summary": "H-1B Cap Reached: What This Means for Employers and What Options Remain for Hiring Critical Talent WR Immigration",
     "category": "H-1B Visa"
+  },
+  {
+    "title": "H-1B for Entrepreneurs: Can You Transfer Your H-1B to Your Own Startup?",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUG9KbUt4XzNjVjV4aUVvS0tmRUtYTHNJWC01MEh2X1RvU1VWc2pFRzZFY1hOU1VfZFE4RUVrcHk1SUNOdzdGT0ZTM3ZXS0NjaHd6empmX01sQmZvWTR3S3hzZXJWdDBqcmVCeGVUc3FQWTZwMW1UT0N4UF9wZG45M2dkOUFzX2FPWHJn?oc=5",
+    "pub_date": "2026-07-17T07:00:00+00:00",
+    "description": "H-1B for Entrepreneurs: Can You Transfer Your H-1B to Your Own Startup? Lexology",
+    "source": "Lexology",
+    "source_type": "media",
+    "category": "H-1B Visa",
+    "summary": "H-1B for Entrepreneurs: Can You Transfer Your H-1B to Your Own Startup? Lexology"
   },
   {
     "title": "US government's new rule says: Individuals applying for Visa, admission, or adjustment of Green Card stat",
@@ -182,8 +192,8 @@
     "description": "State Department considering $100,000 bonds on green-card applicants The Hill",
     "source": "The Hill",
     "source_type": "media",
-    "category": "General Policy",
-    "summary": "State Department considering $100,000 bonds on green-card applicants The Hill"
+    "summary": "State Department considering $100,000 bonds on green-card applicants The Hill",
+    "category": "General Policy"
   },
   {
     "title": "Supreme Court's Birthright Citizenship Ruling: What HR Needs to Know Now",
@@ -222,8 +232,8 @@
     "description": "Frisco’s Bonalu, India Independence Events Spotlight Cultural Shift Amid H-1B Growth Dallas Express",
     "source": "Dallas Express",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "Frisco’s Bonalu, India Independence Events Spotlight Cultural Shift Amid H-1B Growth Dallas Express"
+    "summary": "Frisco’s Bonalu, India Independence Events Spotlight Cultural Shift Amid H-1B Growth Dallas Express",
+    "category": "H-1B Visa"
   },
   {
     "title": "Demand to end ‘scam’ visa program replacing American workers surges, West Virginia congressman reveals",
@@ -810,15 +820,5 @@
     ],
     "summary": "Born in the USA: What US Supreme Court’s ruling on birthright citizenship means for Indian immigrants ThePrint",
     "category": "US Citizenship"
-  },
-  {
-    "title": "US birthright citizenship ruling changes less than Indians may hope",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVprMTJuR3gwRjc5a3VrQUlTZEZ6MjdES3NhUDhIVXFfUlV3ZWtxc2R5czYwMmhKdTNhQ1RhRXNoWmZpcnNzRV9sbExNR0xsUFJxSWt2NVR5TG51RnhKckpXdGxoYTJUN0ZZaHA4RHA4ZG5wdmk4amFLRjU3MGlJRHFjaDcza2ZBWXM4RWpGQTIxRFloVlZLVW1UQ1hRZ2tCeHl1QkRJRdIBrgFBVV95cUxOMlRlV0xrMmR0eUg5MGRvYWRpQXloazRSamg5OVpWWHp1Z1JqbDNtZktqSnotVzBmREpla2FkVnVwVUdBV1BISm9pd3Y4OUR0YVdiYzU3MUctekZVTVpOMVE0YW9vcnp5TDBhUVpQZG5rQS05MXFTdjdCamtncGVoTFU5QVc4LWxwMHg3RU5MbFRteUpJS3JWd01rYVlUNzlVNDBwQ3NrMzZ4Q2FnTEE?oc=5",
-    "pub_date": "2026-07-02T07:33:38+00:00",
-    "description": "US birthright citizenship ruling changes less than Indians may hope The Indian Express",
-    "source": "The Indian Express",
-    "source_type": "media",
-    "summary": "US birthright ruling changes less than Indians may hope The Indian Express",
-    "category": "General Policy"
   }
 ]
