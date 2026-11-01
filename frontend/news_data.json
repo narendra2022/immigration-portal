@@ -1,13 +1,23 @@
 [
   {
+    "title": "University of Maine layoffs raise H-1B questions",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkljak5FMkRpRF9rb3g5bVIyVU1LMXFGb3dfMGxBVldtVHNCejJmNnRyejEwSDJzM0Zjbi1VcDd3MWs3eWVwVzBqTmRPVmZLMTgwa0NxNmtwbWxzNDVCemNoOExQR1ZZcU9CVHh4QzRNV2lpZlZhMER4dHhQYUw0M1lEYUR3cnpKaXJYT1l0N3BlZlJFZ21wc3kwUmZxU1hNSFpxVl8zZnNVTms?oc=5",
+    "pub_date": "2026-11-01T16:28:00+00:00",
+    "description": "University of Maine layoffs raise H-1B questions The American Bazaar",
+    "source": "The American Bazaar",
+    "source_type": "media",
+    "category": "H-1B Visa",
+    "summary": "University of Maine layoffs raise H-1B questions The American Bazaar"
+  },
+  {
     "title": "Trump's H-1B Visa Plan: Will Extensions Get Harder?",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnF4MTJXQldKS0xGX0JCMUZmOEt3dE5rNGh5ZG5JZWZjVzhwN0xGb01WdUk4VTRsSjNGVnNna2dib3Z5aWN1MWZ2ZmJOdXY4Zkx6dFFFSldSLV9uU1VXV3dNemlwMWZncDBpU0NTVjdwdVd4MENMMG5Vc2Q0SzVTYXhR?oc=5",
     "pub_date": "2026-10-30T12:00:21+00:00",
     "description": "Trump's H-1B Visa Plan: Will Extensions Get Harder? IndianEagle",
     "source": "IndianEagle",
     "source_type": "media",
-    "category": "H-1B Visa",
-    "summary": "Trump's H-1B Visa Plan: Will Extensions Get Harder? IndianEagle"
+    "summary": "Trump's H-1B Visa Plan: Will Extensions Get Harder? IndianEagle",
+    "category": "H-1B Visa"
   },
   {
     "title": "2027 Business Immigration Outlook for Employers",
@@ -16,8 +26,8 @@
     "description": "2027 Business Immigration Outlook for Employers Mintz",
     "source": "Mintz",
     "source_type": "media",
-    "category": "General Policy",
-    "summary": "2027 Business Immigration Outlook for Employers Mintz"
+    "summary": "2027 Business Immigration Outlook for Employers Mintz",
+    "category": "General Policy"
   },
   {
     "title": "Trump moves to end H1B visa deference policy",
@@ -376,16 +386,6 @@
     "category": "H-1B Visa"
   },
   {
-    "title": "Current Status of the $100,000 H-1B Fee and Related News",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTZoVk9CNEpMUXF1dVM0Y3p0aTlOSzFyMlgzeVF4WkJUWDJTTUtHelZkTmRKNHRnSkMtU2stT1pkVGJDRjVNbGtpc0I2Q0NYY0VaSnNjZ2wwd2x1cF95dWVVd3ZWcFFQNkxzRFVlVU1tanp5R0x0WmJCMGQtY0xWeFpveFJELVFP?oc=5",
-    "pub_date": "2026-10-23T17:59:55+00:00",
-    "description": "Current Status of the $100,000 H-1B Fee and Related News JD Supra",
-    "source": "JD Supra",
-    "source_type": "media",
-    "summary": "Current Status of the $100,000 H-1B Fee and Related News JD Supra",
-    "category": "H-1B Visa"
-  },
-  {
     "title": "H-1B layoff leaves Indian worker in India unsure if he can reenter US",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNExDZWJCUllOSHphZGR1YWJEa2ZIWGRvcWpDU1V1Wi1tT28xVjlHQXZuSVM4VTFHdGJKOFBGVFhCTzh1VUlpdVJ6ZUlJX29kOVY1TFp2bmNmZm5JYVJ3emVCUDBZT1VDMVFMckluT3ZKa1VVU0lWdVNrYmlFWTFmTWJKX1F3aHcteThib3BLRk5CSnI2S091WGhNSDZSUXNPdlpvQ2hsSXZiOFdJLWxsZ2RxNXVsUnJRZnc?oc=5",
     "pub_date": "2026-10-23T16:07:52+00:00",
@@ -404,6 +404,16 @@
     "source_type": "media",
     "summary": "Green Card Update: Visa Bulletin Shows Progress for Some Applicants Newsweek",
     "category": "Visa Bulletin"
+  },
+  {
+    "title": "Current Status of the $100,000 H-1B Fee and Related News",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTZoVk9CNEpMUXF1dVM0Y3p0aTlOSzFyMlgzeVF4WkJUWDJTTUtHelZkTmRKNHRnSkMtU2stT1pkVGJDRjVNbGtpc0I2Q0NYY0VaSnNjZ2wwd2x1cF95dWVVd3ZWcFFQNkxzRFVlVU1tanp5R0x0WmJCMGQtY0xWeFpveFJELVFP?oc=5",
+    "pub_date": "2026-10-23T07:00:00+00:00",
+    "description": "Current Status of the $100,000 H-1B Fee and Related News JD Supra",
+    "source": "JD Supra",
+    "source_type": "media",
+    "summary": "Current Status of the $100,000 H-1B Fee and Related News JD Supra",
+    "category": "H-1B Visa"
   },
   {
     "title": "Recent Federal Changes to Employment Authorization",
@@ -428,7 +438,7 @@
   {
     "title": "As H-1B visa changes keep coming, biopharmas adjust hiring approach",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2ppRHEydHlpd1M0UkNLYlZKNnhqTHRSNkFmU0JwU1FCQVRPUURUWGJ0WnVTcXpGbWZSZUVqZThaQXlUcm1sLXcyaWYteC0xV0RoTFNtNGpqTFEyaXd2YldIQUVpRDVVNGMzdmNjQkJSOHY3bWp5SHBXUjZaVHlGcUtoMy1feGlKcVRoSmtNUGUzX1hsOGc4YnE5SlpIaXdCSmlVaQ?oc=5",
-    "pub_date": "2026-10-22T04:08:30+00:00",
+    "pub_date": "2026-10-22T07:00:00+00:00",
     "description": "As H-1B visa changes keep coming, biopharmas adjust hiring approach BioSpace",
     "source": "BioSpace",
     "source_type": "media",
@@ -811,16 +821,6 @@
     "source": "Duane Morris LLP",
     "source_type": "media",
     "summary": "DHS Proposes to End Deference to Prior Approvals for H-1B, L-1 and Other Form I‑129 Extensions Duane Morris LLP",
-    "category": "H-1B Visa"
-  },
-  {
-    "title": "How US Proposal To Remove Deference To Prior H-1B Approvals Could Affect Indians",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2ZjaGpMY2NmcHMwSWNDWm9oS0RnZk1qR0FJTmJrZF9OdFFrLWlSeF9ObnhFNXllVDVib3JlUkFQVDFyMEVRSWhudWlkWlNfeVFNdEVMNnpIUEtLX1I3a3RpYXRNcUFDTDlRNlZad2NZTE1lRGsxdmU4dUVZQ1hxWDBGbjlwS09jYjFSa2phWGJick04SlFCRDJxckg1Rk5ORjZweXJGN1EzSV91TjFwRFptcnFtTWwwR2FLMm54a21jbXFjSHJxUm85MlRhQdIB1gFBVV95cUxQUVdHeW95WjdLZnpfbDFOb280d1AwMFdkaWNNYWpqd2JVYzlRWEpZSWV1dm1aZEI5ZWlWSWF6d2R0RDBLZktmMVdLaU9PWW1vVDJDVWtFYlVMczRZc2w2WndWZ3piUUNQTUxCWTdfbzkyTG9lWm9lanczNk02cU5NUE9jRlRtM0hzQkRmTTFUZkVINGVibkljZ0k1TGpYRlhxbXdyY0VETTBIaE9zSkMzTjJtTnVheUF2RDFpdklUbzhTek56aVViVExINXNyd3NHbGVEblVB?oc=5",
-    "pub_date": "2026-10-15T03:52:09+00:00",
-    "description": "How US Proposal To Remove Deference To Prior H-1B Approvals Could Affect Indians NDTV",
-    "source": "NDTV",
-    "source_type": "media",
-    "summary": "How US Proposal To Remove Deference To Prior H-1B Approvals Could Affect Indians NDTV",
     "category": "H-1B Visa"
   }
 ]
